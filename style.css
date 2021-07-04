@@ -12,6 +12,7 @@ color: orange;
 
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 
 .hap-width{
@@ -34,4 +35,10 @@ section{
 .top_banner{
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.drim-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
